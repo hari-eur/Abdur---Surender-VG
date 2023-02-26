@@ -1,0 +1,19 @@
+Pls go through the below links to understand
+ 
+C Compilation Process.
+•	https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/
+•	https://www.javatpoint.com/compilation-process-in-c
+•	https://www.scaler.com/topics/c/compilation-process-in-c/
+ 
+C Operators.
+•	https://www.tutorialspoint.com/cprogramming/c_operators.htm
+•	https://www.geeksforgeeks.org/operators-in-c/
+•	https://www.simplilearn.com/tutorials/c-tutorial/c-operators
+ 
+Also try to understand the difference between different types of variables such as Static, Global, Local variables in C.  Identify their purpose and usage in C programs.
+
+Example MCQ’s:
+https://www.sanfoundry.com/gcc-compiler-questions-answers-stages-of-compilation-1/
+https://www.sanfoundry.com/gcc-compiler-questions-answers-stages-of-compilation-2/
+https://www.examveda.com/c-program/practice-mcq-question-on-operators-and-expressions/
+https://www.sanfoundry.com/c-test-arithmetic-operators/

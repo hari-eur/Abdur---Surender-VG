@@ -1,0 +1,25 @@
+1. What is the difference between Global variable and Local Variable ?
+2. Explain the scope of a Static variable with a example.
+2. What are the stages of Compilation ?
+3. Say we write a c program in file.c and run for compilation.
+   At which stage, file.s is generated ?
+4. Write a C program to find whether a number is odd or even without using the arithmetic operators (Use only Bitwise Operators)
+5. What is the O/P of the below program. Explain.
+
+#include <stdio.h>
+
+int main() 
+
+{ 
+
+  int x, y = 5, z = 5; 
+
+  x = y == z; 
+
+  printf(\"%d\", x); 
+
+  getchar(); 
+
+  return 0; 
+
+}
