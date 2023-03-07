@@ -1,0 +1,25 @@
+Write a simple calculator program using modular programming.
+
+	Have a separate header file with below declarations.
+	int add(int a, int b)
+	int sub(int a, int b)
+	int div(int a, int b)
+	int multiply(int a, int b)
+	
+	Have a separate C function with the above mentioned function's definitions and main() function .
+	Use Switch cases for options such as addition, subtraction, division and multiplication.
+	Try compiling and generate the below behaviour.
+	
+	SAMPLE BEHAVIOUR:
+	
+	Input 2 numbers:
+	
+	Operation:
+	a. Add
+	b. Sub
+	c. Div
+	d. Multiply
+	
+	Enter option: (a/b/c/d)
+	
+	Result:
